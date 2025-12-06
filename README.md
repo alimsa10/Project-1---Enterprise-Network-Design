@@ -37,4 +37,3 @@ This project fulfills the following network requirements and configurations:
 - Access Control Lists (ACLs): Applied traffic filtering rules to restrict unauthorized access between sensitive departments and the Data Center.
 
 
-
