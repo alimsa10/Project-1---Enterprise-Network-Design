@@ -50,7 +50,7 @@ The network consists of two main geographical sites connected via a simulated WA
 
 * `Project_DPEI_final.topo`: The main simulation file. Open this in Huawei eNSP.
 * `project documentation.pdf`: Detailed documentation of the project requirements and addressing plan.
-* `network topology.jpeg`: A visual diagram of the network topology.
+* `Network_topology.jpeg`: A visual diagram of the network topology.
 * `Enterprise Network Presentation.pptx`: A presentation of the project
 
 
