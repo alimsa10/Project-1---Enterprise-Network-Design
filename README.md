@@ -37,3 +37,33 @@ This project fulfills the following network requirements and configurations:
 - Access Control Lists (ACLs): Applied traffic filtering rules to restrict unauthorized access between sensitive departments and the Data Center.
 
 
+## 🗺️ Network Topology
+
+![Network Topology](network topology.jpeg)
+
+The network consists of two main geographical sites connected via a simulated WAN:
+* **Main HQ:** Hosts the redundant Core layer (S1, S2), the Data Center (VLAN 100), and key departments. Handles ISP connection.
+* **Branch Office:** Connects to the Main HQ via OSPF and serves local users.
+* **ISP Cloud:** Simulates external internet connectivity with NAT.
+
+## 📂 Project Files
+
+* `Project_DPEI_final.topo`: The main simulation file. Open this in Huawei eNSP.
+* `project documentation.pdf`: Detailed documentation of the project requirements and addressing plan.
+* `network topology.jpeg`: A visual diagram of the network topology.
+
+
+## 🚀 Getting Started
+
+**Prerequisites**
+* Huawei eNSP Simulator
+* Wireshark (Optional, for packet analysis)
+
+**Installation**
+1.  Clone the repository to your local machine.
+2.  Open eNSP and go to `File` > `Open`.
+3.  Select `Project_DPEI_final.topo`.
+4.  Power on the devices to start the simulation.
+
+**Login Credentials**
+* No specific login credentials are required for the devices (Console/VTY are open).
