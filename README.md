@@ -3,7 +3,7 @@
 # 🎯 Project Overview:
 This project simulates a complete network infrastructure for a multi-site construction company. It connects a Main HQ and a Branch site, supporting specific departments like Finance, IT, and a Data Center. The design focuses on high availability, redundancy, and efficient traffic management using Huawei eNSP.
 
-# Technical Implementation
+# ⚙️ Technical Implementation
 This project fulfills the following network requirements and configurations:
 
 ### 1. Network Topography & Design
