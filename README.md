@@ -39,7 +39,7 @@ This project fulfills the following network requirements and configurations:
 
 ## 🗺️ Network Topology
 
-![Network Topology](network topology.jpeg)
+![Network_Topology](https://github.com/alimsa10/Project-1---Enterprise-Network-Design/blob/main/Network_topology.jpeg)
 
 The network consists of two main geographical sites connected via a simulated WAN:
 * **Main HQ:** Hosts the redundant Core layer (S1, S2), the Data Center (VLAN 100), and key departments. Handles ISP connection.
